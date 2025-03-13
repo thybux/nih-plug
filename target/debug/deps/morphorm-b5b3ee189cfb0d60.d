@@ -1,0 +1,11 @@
+/Users/thomas/Desktop/REPO EPITECH/ESP/TESTENV/nih-plug/target/debug/deps/libmorphorm-b5b3ee189cfb0d60.rmeta: /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/lib.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/types.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/util.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/cache.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/node.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/layout.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/../README.md
+
+/Users/thomas/Desktop/REPO EPITECH/ESP/TESTENV/nih-plug/target/debug/deps/morphorm-b5b3ee189cfb0d60.d: /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/lib.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/types.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/util.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/cache.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/node.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/layout.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/../README.md
+
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/lib.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/types.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/util.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/cache.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/node.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/layout.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/morphorm-0.6.5/src/../README.md:

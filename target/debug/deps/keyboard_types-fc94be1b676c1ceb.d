@@ -1,0 +1,10 @@
+/Users/thomas/Desktop/REPO EPITECH/ESP/TESTENV/nih-plug/target/debug/deps/libkeyboard_types-fc94be1b676c1ceb.rmeta: /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/lib.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/code.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/key.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/location.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/modifiers.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/shortcuts.rs
+
+/Users/thomas/Desktop/REPO EPITECH/ESP/TESTENV/nih-plug/target/debug/deps/keyboard_types-fc94be1b676c1ceb.d: /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/lib.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/code.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/key.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/location.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/modifiers.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/shortcuts.rs
+
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/lib.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/code.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/key.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/location.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/modifiers.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keyboard-types-0.6.2/src/shortcuts.rs:

@@ -1,0 +1,13 @@
+/Users/thomas/Desktop/REPO EPITECH/ESP/TESTENV/nih-plug/target/debug/deps/libuuid-d673b157c0cc77ad.rmeta: /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/lib.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/builder/mod.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/builder/error.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/error.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/parser/mod.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/parser/error.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/prelude.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/adapter/mod.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/v4.rs
+
+/Users/thomas/Desktop/REPO EPITECH/ESP/TESTENV/nih-plug/target/debug/deps/uuid-d673b157c0cc77ad.d: /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/lib.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/builder/mod.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/builder/error.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/error.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/parser/mod.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/parser/error.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/prelude.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/adapter/mod.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/v4.rs
+
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/lib.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/builder/mod.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/builder/error.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/error.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/parser/mod.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/parser/error.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/prelude.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/adapter/mod.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-0.8.2/src/v4.rs:

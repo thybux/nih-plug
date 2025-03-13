@@ -1,0 +1,3 @@
+cargo:rustc-cfg=vec3a_f32
+cargo:rustc-cfg=vec4_f32_align16
+cargo:rustc-cfg=vec4_f32

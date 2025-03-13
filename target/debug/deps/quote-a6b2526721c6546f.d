@@ -1,0 +1,11 @@
+/Users/thomas/Desktop/REPO EPITECH/ESP/TESTENV/nih-plug/target/debug/deps/libquote-a6b2526721c6546f.rmeta: /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/lib.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/ext.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/format.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/ident_fragment.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/to_tokens.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/runtime.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/spanned.rs
+
+/Users/thomas/Desktop/REPO EPITECH/ESP/TESTENV/nih-plug/target/debug/deps/quote-a6b2526721c6546f.d: /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/lib.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/ext.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/format.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/ident_fragment.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/to_tokens.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/runtime.rs /Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/spanned.rs
+
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/lib.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/ext.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/format.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/ident_fragment.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/to_tokens.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/runtime.rs:
+/Users/thomas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/spanned.rs:
